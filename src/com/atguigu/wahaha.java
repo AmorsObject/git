@@ -8,6 +8,7 @@ public class wahaha {
 		System.out.println("第四回");
 		System.out.println("第七回");
 		System.out.println("第八回");
+		System.out.println("第九回");
 		System.out.println("第十回");
 	}
 }
